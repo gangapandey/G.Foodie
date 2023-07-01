@@ -2,6 +2,9 @@
 Responsive restaurant website
 
 
+# Veiw site live
+<a href="https://gangapandey.github.io/G.Foodie/"> G.Foodie </a>
+
 # Language Used
 Html  <br>
 Css   <br>
