@@ -1379,18 +1379,6 @@ textarea.input-field {
     background-color: var(--rich-black-fogra-29);
 }
 
-.footer-bottom {
-    padding-block: 20px;
-    text-align: center;
-}
-
-.copyright-link {
-    display: inline-block;
-}
-
-.copyright-link:is(:hover, :focus) {
-    text-decoration: underline;
-}
 
 
 /*-----------------------------------*\
